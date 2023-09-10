@@ -13,7 +13,7 @@ I will be expecting to merge every result at the end of every weekend.
 
 The Whole Learning process will span for 6 months starting from September 15th, 2023
 
-Stage 1 Assignment (5 weeks 15 Sept - 22 Oct)
+> **Stage 1 Assignment (5 weeks 15 Sept - 22 Oct)**
 
 https://www.coursera.org/learn/learn-html-and-css/home/welcome
 
