@@ -1,6 +1,7 @@
 # CharisBlackProjects
 This is Team SuyaScript (Software Developer) Learning Repository. 
-Our Journey may start together but does not mean it will end together.
+
+**Our Journey may start together but does not mean it will end together.**
 
 Please the first steps is to fork this Repository
 
