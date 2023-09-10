@@ -26,3 +26,7 @@ Click on Audit content only for Coursera courses. If you know how to apply for f
 At the end of Week 1, each candidate would have learn about HTML, tags, CSS, Script, Frontend coding and Backend coding. 
 
 Your name folder will be checked each week. So please keep at it.
+
+> **Stage 2 Assignment ( weeks 28 Oct)**
+
+This will be updated soon.
